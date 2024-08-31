@@ -1,0 +1,5 @@
+cmake-build-debug
+build
+roms
+.git
+.idea
